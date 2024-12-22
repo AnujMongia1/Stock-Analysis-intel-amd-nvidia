@@ -51,15 +51,10 @@ https://www.kaggle.com/datasets/elmartini/stock-prices-intel-nvidia-and-amd
 
 - **Intel: There was a gradual increase over the years with some fluctuations.**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/432ffba1-bf38-423d-a0a1-daae985dc35a/874bda14-587f-46d0-adca-bb318aca12fe/image.png)
-
 - **Nvidia: There were ups and downs in the overall trend but in the recent years there were notable spikes and dips.**
-
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/432ffba1-bf38-423d-a0a1-daae985dc35a/972d29d1-5c38-4896-b690-81d8c1cf6f7d/image.png)
 
 - **AMD: They had a very steady growth with unusual rapid appreciation.**
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/432ffba1-bf38-423d-a0a1-daae985dc35a/e1c0dbb7-267d-4bee-957b-9d84273c984d/image.png)
 
 ### 3. Comparative Stock Analysis
 
@@ -69,13 +64,10 @@ This section of analysis compares the daily return percentage of all three stock
 
 Return Percentage=(Current price-Previous price)/(Previous price)×100
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/432ffba1-bf38-423d-a0a1-daae985dc35a/9a475426-c383-47f7-8ceb-75dbac127800/image.png)
-
 ### Combined Stock Data Visualization
 
 A single graph was plotted for this section to compare the price movements of Intel, Nvidia, and AMD stocks over the years to visualize their performance
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/432ffba1-bf38-423d-a0a1-daae985dc35a/9638549a-9b73-44a6-a187-019505c30cac/image.png)
 
 ### Stock Price Change Over Time
 
